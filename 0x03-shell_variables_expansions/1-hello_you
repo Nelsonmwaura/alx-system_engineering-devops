@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "hello My$(whoami)" 
+#!/bin/bas
+echo "hello $USER" 
