@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $my_username" 
+echo "hello My_$(whoami)" 
